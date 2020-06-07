@@ -1,6 +1,6 @@
 # Mon Portfolio
 
-Il s'agit d'un répertoire où je liste mes anciens et mes actuelles projets.
+Il s'agit d'un répertoire ou je liste mes anciens et mes actuelles projets.
 J'ai réalisé cette liste en attendant de refaire mon portfolio en ligne.
 
 ## Table of contents
