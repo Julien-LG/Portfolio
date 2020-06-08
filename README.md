@@ -97,28 +97,28 @@ Lien : https://legoffjulien27.wordpress.com
 Les projets suivants sont des projets assez récents que j'ai réalisé sur mon temps libre et que je continue d'améliorer.
 
 ### Drive Saver
-![Drive-Saver](img/Drive-Saver.jpg)
+![Drive-Saver](img/Drive-Saver.png)
 
 Ce logiciel en cours de développement va permettre de faire des sauvegardes incrémentales soit vers un disque dur, soit vers un cloud (google drive, one drive, dropbox), son but à terme est de permettre une bonne synchronisation entre deux ordinateurs.
 
 `2020` - `C#`, `Logiciel`
 
 ### Trieur de Dossier
-![Trieur-de-Dossier](img/trieur-de-dossier.jpg)
+![Trieur-de-Dossier](img/trieur-de-dossier.png)
 
 Il s'agit ici d'un programme qui permet de trier un dossier. L'utilisateur sélectionne un dossier source et des dossiers cibles pour les types de fichiers qu'il souhaite trier (image, document, vidéo) et le programme génère un fichier .bat qui trie automatiquement le dossier cible et qui est réutilisable.
 
 `2018-2020` - `C#`, `MS-DOS`, `Logiciel`
 
 ### Kali
-![Kali](img/kali.jpg)
+![Kali](img/kali.png)
 
 Logiciel que j'ai développé pour utiliser les informations apprises en cours de sécurité informatique. Ce programme permet d'évaluer la robustesse d'un mot de passe face à une attaque par brut force, il possède également chiffreur/déchiffreur de texte avec une sorte de code de césar qui fonctionne avec une clé que l'on rentre.
 
 `2019` - `C#`, `Logiciel`
 
 ### MiniGame
-![MiniGame](img/MiniGame.jpg)
+![MiniGame](img/MiniGame.png)
 
 Petit projet que j'ai fait après avoir commencé à apprendre le C++, il s'agit d'un simple jeu de combat en tour par tour entre deux personnages, le tout en dans une console. Je compte l'améliorer à l'avenir, pour l'instant il ne prend en compte que l'attaque, la défense et la vitesse d'un personnage.
 
