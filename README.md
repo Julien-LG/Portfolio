@@ -21,7 +21,7 @@ J'ai réalisé cette liste en attendant de refaire mon portfolio en ligne.
 
 ## Termites
 
-![Termites](img/termites.png)
+![Termites](img/Termites.png)
 
 `2020` - `C++`, `SFML`, `CodeBlocks`, `Logiciel`, `Simulation`
 
@@ -37,7 +37,7 @@ J'ai créé dans le cadre de ma licence à l'université Paris-Sud, ce projet de
 Projet réalisé en binôme.
 
 ## GSB Mobile
-![GSB Mobile](img/GSB-Mobile.png)
+![GSB Mobile](img/gsb-mobile.png)
 
 `2019` - `C#`, `Xamarin`, `API`, `SQL`, `Visual Studio`, `Application Mobile`
 
@@ -47,7 +47,7 @@ Ce projet m'a permis une première vraie expérience à la fois dans la créatio
 Compte rendu complet disponible ici : https://legoffjulien27.wordpress.com/gsb-mobile/
 
 ## Zalkin SID
-![Zalkin SID](img/Zalkin-SID.png)
+![Zalkin SID](img/zalkin-sid.png)
 
 `2019` - `PHP`, `JavaScript`, `CSS`, `SQL`, `ERP`, `Web`
 
@@ -57,7 +57,7 @@ Ce site est divisé en 3 variantes, la 1ere permet après une requête vers Syte
 Compte rendu disponible ici : https://legoffjulien27.files.wordpress.com/2019/02/stagezalkin2jlg-1.pdf
 
 ## GSB Rapport de Visite
-![GSB Rapport de Visite](img/GSB-Rapport-de-Visite.png)
+![GSB Rapport de Visite](img/gsb-rapport-de-visite.png)
 
 `2018-2019` - `C#`, `SQL`, `Visual Studio`, `Logiciel`
 
@@ -77,14 +77,14 @@ Travail effectué : partie création de rapport de visite et base de données.
 J'ai participé en 2018 au concours de créativité numérique du Lycée Gustave Flaubert, qui se déroulait sur une semaine et qui avait pour thème "Savoirs Connaissances Informations". J'ai pu réaliser en duo une application mobile permettant à partir d'un mot-clé d'obtenir une courte définition ainsi que les derniers articles à ce sujet. Ce projet entièrement réalisé en PHP fut intéressant car il m'a permis de découvrir les API, il a par ailleurs obtenu la 4ème place au concours.
 
 ## Zalkin Dashboard
-![Zalkin Dashboard](img/Zalkin-Dashboard.png)
+![Zalkin Dashboard](img/zalkin-dashboard.png)
 
 `2018` - `PHP`, `JavaScript`, `JQuery`, `AJAX`, `CodeIgniter`, `SQL`, `SublimText`
 
 J'ai pu pendant ce stage développé avec le framework CodeIgniter un site web dynamique affichant les informations du réseau informatique de l'entreprise (statistiques à propos des serveurs, des sauvegardes, etc.).
 
 ## Portfolio BTS
-![Portfolio BTS](img/Portfolio-BTS.png)
+![Portfolio BTS](img/portfolio-bts.png)
 
 `2017-2018` - `Wordpress`
 
@@ -104,14 +104,14 @@ Ce logiciel en cours de développement va permettre de faire des sauvegardes inc
 `2020` - `C#`, `Logiciel`
 
 ### Trieur de Dossier
-![Trieur-de-Dossier](img/Trieur-de-Dossier.jpg)
+![Trieur-de-Dossier](img/trieur-de-dossier.jpg)
 
 Il s'agit ici d'un programme qui permet de trier un dossier. L'utilisateur sélectionne un dossier source et des dossiers cibles pour les types de fichiers qu'il souhaite trier (image, document, vidéo) et le programme génère un fichier .bat qui trie automatiquement le dossier cible et qui est réutilisable.
 
 `2018-2020` - `C#`, `MS-DOS`, `Logiciel`
 
 ### Kali
-![Kali](img/Kali.jpg)
+![Kali](img/kali.jpg)
 
 Logiciel que j'ai développé pour utiliser les informations apprises en cours de sécurité informatique. Ce programme permet d'évaluer la robustesse d'un mot de passe face à une attaque par brut force, il possède également chiffreur/déchiffreur de texte avec une sorte de code de césar qui fonctionne avec une clé que l'on rentre.
 
